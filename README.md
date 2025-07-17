@@ -1,10 +1,29 @@
-- 👋 Hi, I’m @Ezeibedave
-- 👀 I’m interested in wordpress,wix schematic and PCB, and circuit design...
-- 🌱 I’m currently learning more about wordpress,wix schematic and PCB, and circuit design...
-- 💞️ I’m looking to collaborate on any projcet about wordpress,wix schematic and PCB, and circuit design...
-- 📫 How to reach me techuniformsystem.wordpress.com ...
+👋 Hi, I'm David (Ezeibedave)
+🚀 Full-Stack Web Developer | PHP | MySQL | JavaScript | WordPress | Webflow
 
-<!---
-Ezeibedave/Ezeibedave is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Tech Stack:
+✔ Backend: PHP, MySQL, REST APIs
+✔ Frontend: JavaScript, HTML5, CSS3
+✔ CMS/No-Code: WordPress (Custom Themes/Plugins), Webflow
+✔ Tools: Git, VS Code, WP-CLI
+
+🌱 Currently Exploring:
+
+Advanced WordPress plugin development
+
+Webflow interactions & animations
+
+Modern PHP frameworks (Laravel, Symfony)
+
+💼 Services:
+
+Custom web applications
+
+WordPress optimization & customization
+
+Webflow to code conversions
+
+Database-driven solutions
+
+📫 Let's Connect:
+📧 Email: tustechworld@gmail.com
